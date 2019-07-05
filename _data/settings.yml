@@ -1,0 +1,71 @@
+#-------------------------------
+# General Site Settings
+
+#menu:
+#- {name: 'Projects', url: ''}
+#- {name: 'Blog', url: 'pages/blog.html'}
+#- {name: 'About', url: 'pages/about.html'}
+#- {name: 'Contact', url: 'pages/contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Personal portfolio'
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: https://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics-ua: #'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'tiagoair'
+
+#-------------------------------
+# About Section
+
+about: >
+  # Personal portfolio
+
+  
+contact: >
+  # Contact
+
+ 
+#-------------------------------
+# Work Section
+
+games:
+- {name: 'Kawaii Deathu Desu', folder: 'game-6', file: 'games/game-6.html', link: 'https://store.steampowered.com/app/1102880/Kawaii_Deathu_Desu/?fbclid=IwAR1ffRz6e9Unxpv0_nNmNpCEe3rdR15gDHcDvusHqa11XNUH3oAOycZf75I'}
+- {name: 'Fungi', folder: 'game-5', file: 'games/game-5.html', link: 'https://pippingames.itch.io/fungi'}
+- {name: 'Hekura', folder: 'game-1', file: 'games/game-1.html', link: 'https://marcelomesmo.itch.io/hekura'}
+- {name: 'Dark Tarot of Memory', folder: 'game-2', file: 'games/game-2.html', link: 'https://marcelomesmo.com/games/game-2.html'}
+- {name: 'Dr. BloodStrike', folder: 'game-3', file: 'games/game-3.html', link: 'https://marcelomesmo.com/games/game-3.html'}
+- {name: 'MONSTERS!', folder: 'game-4', file: 'games/game-4.html', link: 'https://marcelomesmo.com/games/game-4.html'}
+- {name: 'RoboCharge', folder: 'game-7', file: 'games/game-7.html', link: 'https://petit-suisse.itch.io/robo-charge'}
+
+
+profilepic: 'assets/img/profile.png'
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/tiagoair'}
+- {icon: 'envelope', link: 'mailto:tiagoair@gmail.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
