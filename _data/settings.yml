@@ -50,13 +50,14 @@ contact: >
 # Work Section
 
 games:
-- {name: 'Kawaii Deathu Desu', folder: 'game-6', file: 'games/game-6.html', link: 'https://store.steampowered.com/app/1102880/Kawaii_Deathu_Desu/?fbclid=IwAR1ffRz6e9Unxpv0_nNmNpCEe3rdR15gDHcDvusHqa11XNUH3oAOycZf75I'}
-- {name: 'Fungi', folder: 'game-5', file: 'games/game-5.html', link: 'https://pippingames.itch.io/fungi'}
+- {name: 'Sleight', folder: 'game-8', file: 'games/game-8.html', link: 'https://store.steampowered.com/app/953110/SLEIGHT__Nerve_Wracking_Espionage_Party_Game'}
+- {name: 'Resonance', folder: 'game-7', file: 'games/game-7.html', link: 'https://demeraragames.itch.io/resonance'}
+- {name: 'Lag Warfare', folder: 'game-6', file: 'games/game-6.html', link: 'https://gamejolt.com/games/lag-warfare-no-reconnection/171568'}
+- {name: 'Fungi', folder: 'game-5', file: 'games/game-5.html', link: 'https://gamejolt.com/games/deep-waters/46386'}
+- {name: 'GAZA', folder: 'game-4', file: 'games/game-4.html', link: 'https://gamejolt.com/games/gaza-0-1/31178'}
+- {name: 'A Game of Thrones', folder: 'game-3', file: 'games/game-3.html', link: 'https://gamejolt.com/games/a-game-of-thrones/31423'}
+- {name: 'RED', folder: 'game-2', file: 'games/game-2.html', link: 'https://gamejolt.com/games/red/423794'}
 - {name: 'Heart-Shaped Box', folder: 'game-1', file: 'games/game-1.html', link: 'https://gamejolt.com/games/heart-shaped-box/31476'}
-- {name: 'Dark Tarot of Memory', folder: 'game-2', file: 'games/game-2.html', link: 'https://marcelomesmo.com/games/game-2.html'}
-- {name: 'Dr. BloodStrike', folder: 'game-3', file: 'games/game-3.html', link: 'https://marcelomesmo.com/games/game-3.html'}
-- {name: 'MONSTERS!', folder: 'game-4', file: 'games/game-4.html', link: 'https://marcelomesmo.com/games/game-4.html'}
-- {name: 'RoboCharge', folder: 'game-7', file: 'games/game-7.html', link: 'https://petit-suisse.itch.io/robo-charge'}
 
 
 profilepic: 'assets/img/profile.png'
